@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: "popins",sans-serif    ;
+}
+#con{
+display: flex;
+justify-content: center;
+gap: 10px;
+background-color: rgb(206, 201, 201);
+padding: 30px;
+flex-wrap: wrap;
+}
+#btn{
+height: 27px;
+}
+#textarea{
+border-radius: 10px;
+padding: 10px;
+font-size:  large;
+font-weight: 700;
+}
+#incolor{
+padding: 3px;
+margin-top: 10px;
+width: 100px;
+height: 50px;
+}
+#btn{
+height: 50px;
+width: 100px;
+font-size: large;
+font-weight: 400;
+color: black;
+}
+.comn{
+display: flex;
+justify-content: space-around;
+align-items: center;
+flex-direction: column;
+flex-wrap: wrap;
+}
+#output{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+gap: 20px;
+margin-top: 10px;
+}
